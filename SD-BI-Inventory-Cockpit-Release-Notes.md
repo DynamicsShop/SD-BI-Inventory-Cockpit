@@ -152,6 +152,8 @@
 
 - BCv14 App - Replaced the old SD Power BI Core objects and added the objects to the SD Power BI Inventory Cockpit build.
 
+- BCv14 App - The Inventory Cockpit objects were moved into a separate standalone product. 
+
 #### Bug Fixes
 
 - BCv14 App - Fixed an issue raised when installing the App.
