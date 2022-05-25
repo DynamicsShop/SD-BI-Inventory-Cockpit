@@ -4,61 +4,61 @@
 
 #### Enhancements
 
-- The Item Category Alert Group Setup was added as a Cue. 
+- BCv14 App - The Item Category Alert Group Setup was added as a Cue. 
 
-- Added a Date Filter to the Sales Period Qty field in the Item Alert Details FactBox. 
+- BCv14 App - Added a Date Filter to the Sales Period Qty field in the Item Alert Details FactBox. 
 
-- A boolean Suggest Item Category Update was added to the Setup so that when users update certain fields in the item setup they are prompted to update for all items in the same category. 
+- BCv14 App - A boolean Suggest Item Category Update was added to the Setup so that when users update certain fields in the item setup they are prompted to update for all items in the same category. 
 
-- Pages were reviewed to ensure consistency of columns and and actions. 
+- BCv14 App - Pages were reviewed to ensure consistency of columns and and actions. 
 
-- A Refresh Required boolean was added to the Item Alerts Page under the Default View. 
+- BCv14 App - A Refresh Required boolean was added to the Item Alerts Page under the Default View. 
 
-- A cue was added to the Role Centre to show the count of the managed items. 
+- BCv14 App - A cue was added to the Role Centre to show the count of the managed items. 
 
-- The FactBox on the Item Alert List was added to all the Item Pages in SD BI Inventory Cockpit.  
+- BCv14 App - The FactBox on the Item Alert List was added to all the Item Pages in SD BI Inventory Cockpit.  
 
-- Various changes were made to the Item Alert List page. 
+- BCv14 App - Various changes were made to the Item Alert List page. 
 
-- The Refresh Alert Action was renamed to Refresh. Now when choosing the Refresh Action a dialog is presented to give the user an option to Update Data. A dialog on complete was added so the user knows the process has finished. 
+- BCv14 App - The Refresh Alert Action was renamed to Refresh. Now when choosing the Refresh Action a dialog is presented to give the user an option to Update Data. A dialog on complete was added so the user knows the process has finished. 
 
-- Changes were made to the SD BI Inventory Cockpit Role Centre - actions were removed and cues were added. 
+- BCv14 App - Changes were made to the SD BI Inventory Cockpit Role Centre - actions were removed and cues were added. 
 
-- A change was made to the filter on the CodeUnits in the SD BI Inventory Cockpit Setup to allow users select the CodeUnits.  
+- BCv14 App - A change was made to the filter on the CodeUnits in the SD BI Inventory Cockpit Setup to allow users select the CodeUnits.  
 
-- The Top 10 Item Report was added to the Item Cliff Alerts page. 
+- BCv14 App - The Top 10 Item Report was added to the Item Cliff Alerts page. 
 
-- In the SD BI Inventory Cockpit Setup Card, the menu actions were updated. 
+- BCv14 App - In the SD BI Inventory Cockpit Setup Card, the menu actions were updated. 
 
-- The ISV Licencing Controller was added to SD BI Inventory Cockpit. 
+- BCv14 App - The ISV Licencing Controller was added to SD BI Inventory Cockpit. 
 
-- Changes were made to the Filter FastTab. 
+- BCv14 App - Changes were made to the Filter FastTab. 
 
-- The Role Centre Activity Pages are now searchable from the Tell Me. 
+- BCv14 App - The Role Centre Activity Pages are now searchable from the Tell Me. 
 
-- Changes were made to the SD BI Inventory Cockpit Setup Card. 
+- BCv14 App - Changes were made to the SD BI Inventory Cockpit Setup Card. 
 
-- Pages in the Tell Me were recaptioned to SD BI Inventory Cockpit. 
+- BCv14 App - Pages in the Tell Me were recaptioned to SD BI Inventory Cockpit. 
 
-- All objects were recaptioned to SD BI Inventory Cockpit. 
+- BCv14 App - All objects were recaptioned to SD BI Inventory Cockpit. 
 
 #### Bug Fixes
 
-- An issue was fixed with percentage calculations. 
+- BCv14 App - An issue was fixed with percentage calculations. 
 
-- Fixed error raised that Vendor No does not exist when the rebuild button in the Managed Items list was chosen/ 
+- BCv14 App - Fixed error raised that Vendor No does not exist when the rebuild button in the Managed Items list was chosen/ 
 
-- Made a change to the clear out the Item Alerts Order Action Qty in the Critical Order when the Critical Order has been refreshed. 
+- BCv14 App - Made a change to the clear out the Item Alerts Order Action Qty in the Critical Order when the Critical Order has been refreshed. 
 
-- In the Cliff Alert the first field in period needs to be start period. 
+- BCv14 App - In the Cliff Alert the first field in period needs to be start period. 
 
-- A change was made to the Critical Order List to change the Create Order action to Populate Requisition and change the Req. Worksheet to View Requisition. 
+- BCv14 App - A change was made to the Critical Order List to change the Create Order action to Populate Requisition and change the Req. Worksheet to View Requisition. 
 
 ### 3.1.0
 
 #### Enhancements
 
-- Made a publishing fix to the SD-BICI App.
+- BCv14 App - Made a publishing fix to the SD-BICI App.
 
 ### 3.0.0
 
