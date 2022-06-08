@@ -1,5 +1,87 @@
 ## SD BI Inventory Cockpit Releases
 
+### 3.2.0
+
+#### Enhancements
+
+- BCv20 App - In the Item Cliff Alerts page the Item Description was updated to highlight in Red if the Item is in Alert. 
+
+- BCv20 App - The New and Delete Actions were removed from the Alerts Group List. A change was also made to the page not to allow users update the Item Category Code on the lines. 
+
+- BCv20 App - A small typo was fixed in the message displayed when the Rebuild Alerts action in the Items Alert list is chosen. 
+
+- BCv20 App - The text was changed in the message displayed when the Rebuild Alerts action in the Items Alert list is chosen and the alerts are rebuilt. 
+
+- BCv20 App - The Update Items by Item Category boolean was missing from the SD BI Inventory Cockpit Setup Card. The boolean was reinstated and updated to Update Item Alert Groups. 
+
+- BCv20 App - The Order of the columns in the Alerts Groups list were changed to match that of the order of the default fields in the SD BI Inventory Cockpit Setup Card. 
+
+- BCv20 App - On the Alert Groups list page, the Target Stock Cost field was changed to be noneditable.
+
+- BCv20 App - The FastTabs in the SD BI Inventory Setup Card were renamed.
+
+- BCv20 App - The Assisted Setup Action was removed from the BI Inventory Cockpit Setup Card. 
+
+- BCv20 App - The Item Alerts Blocked flag was removed from the Item Alerts List as blocked items are not shown on the Managed Items Alert List. 
+
+- BCv20 App - The Item Chart was removed from the product. 
+
+- BCv20 App - In the Item Cliff Alerts page the fields in the Min Sales Filters FastTab were reordered. 
+
+- BCv20 App - An Item Card action was added to the menu to allow users easy access to the Item Card from the Managed Items List. 
+
+- BCv20 App - A small typo fix was made to some fields in the Item Alert Details FactBox. 
+
+- BCv20 App - Changes were made to tidy up the menus in the Managed Items  List. 
+
+- BCv20 App - A new KPIs FastTab was added to the SD BI Inventory Cockpit Setup card. 
+
+- BCv20 App - The positions of the Managed Items and Managed Groups cue in the SD BI Inventory Cockpit Activity Panels were swapped. 
+
+- BCv20 App - Changes were made to the Menu and Actions in the Item Cliff Alerts page. 
+
+- BCv20 App - The caption of the Updated boolean in the Item Cliff Alerts page was changed to Refresh Required. 
+
+- BCv20 App - A number of Tool Tips in the SD BI Inventory Setup card were updated with more user readable and descriptive tips. 
+
+- BCv20 App - The Product Activation Page was updated to point to the new CRM URL Subscription page. 
+
+- BCv20 App - The latest ISV Licence Controller was added to SD BI Inventory Cockpit. 
+
+- BCv20 App - A Test App was created for AppSource Submission. 
+
+- BCv20 App - Tooltips were added to SD BI Inventory Cockpit. 
+
+- BCv20 App - The SD BI Inventory Cockpit App was readied for AppSource submission. 
+
+- BCv20 App - Object Captions were updated for future translation requests. 
+
+- BCv20 App - The Links in the About Page were updated to point at our new website. 
+
+- BCv20 App - The latest version of the App, the AppSource URL and a URL to the product Release Notes were added to the About Page. 
+
+- BCv20 App - Permission sets were created. 
+
+- BCv20 App - Object names were updated to our standard ISV naming conventions. 
+
+- BCv20 App - ToolTips were updated to point to our new website.  
+
+#### Bug Fixes
+
+- BCv20 App - Choosing exit on the SD BI Inventory Setup card did not close the card and the page became unresponsive and uneditable. This was fixed. 
+
+- BCv20 App - An issue was fixed on the SD BI Inventory Setup card where choosing exit on the card did not close the card. 
+
+- BCv20 App - A change was made to the Managed Item Alerts List to set the only editable field to the Alert Action Qty. 
+
+- BCv20 App - If a View with an Alert Type of Average was changed to an Alert Type of Fixed, the values in the End Period were not cleared. 
+
+- BCv20 App - In the Item Cliff Alerts page, creating a new view defaulted the default start period in the SD BI Inventory Cockpit Setup Card to the End Period in the View. 
+
+- BCv20 App - In the Item Cliff Alerts Page when exporting the Item Cliff Alerts to excel the percentage column was missing. 
+
+- BCv20 App - The Product Activation page was reworked to disable the Activate button unless the Product Key is filled in.  
+
 ### 3.1.1
 
 #### Enhancements
