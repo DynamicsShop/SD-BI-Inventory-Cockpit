@@ -1,5 +1,19 @@
 ## SD BI Inventory Cockpit Releases
 
+### 3.2.1
+
+#### Enhancements
+
+- BCv21 App - The Licence Expiry message/notification was updated to display the App Name in the expiry message.
+
+- BCv21 App - A page was created to display all the Simply Dynamics Apps and subscription details for the tenant.
+
+- BCv21 App - The Licence Message on first install of the App was updated to prompt the user to activate a Free Trial.
+
+#### Bug Fixes
+
+- BCv21 App - A fix was made to the code for licence key checks on the SD BI Inventory Cockpit Role Centre. 
+
 ### 3.2.0
 
 #### Enhancements
