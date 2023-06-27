@@ -1,5 +1,19 @@
 ## SD BI Inventory Cockpit Releases
 
+### 3.2.2
+
+#### Enhancements
+
+- AppSource App - A change was made to limit the SD ISV Tenant Subscriptions page to display just our SD ISV AppSource Apps and not other SD PTE Apps.
+
+- AppSource App - An Alert Notification was added to the SD BI Inventory Cockpit activity pages to notify users to activate the SD BI Sales Inventory licence on install of the App.
+
+#### Bug Fixes
+
+- AppSource App - When selecting SD BI Inventory Cockpit activity pages in the Tell Me/Search in a BCv22 environment, the activity pages were hanging.
+
+- AppSource App - A change was made to the ISV Licence Notification procedure in SD BI Inventory Cockpit to fix an issue that would raise an error when the language is changed from English to another language.
+
 ### 3.2.1
 
 #### Enhancements
