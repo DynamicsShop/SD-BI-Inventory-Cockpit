@@ -1,5 +1,25 @@
 ## SD BI Inventory Cockpit Releases
 
+### 4.0.0
+
+#### Enhancements
+
+- AppSource App - Functionality was added to SD BI Inventory Cockpit to alert by SKU or by Item.
+
+- AppSource App - The cues displayed in the SD BI Inventory Role Centre were added to the SD BI Inventory Cockpit Activity Panel.
+
+- AppSource App - New Sales Trend Functionality was added to the App. 8 KPI fields were added to a new Sales Trend FactBox.
+
+- AppSource App - A FastTab caption on the SD BI Inventory Cockpit Setup card was recaptioned.
+
+- AppSource App - A change was made to the Sales Trend DateFormula FastTab in the SD BI Inventory Cockpit Setup Card to display the date example of the DateFormulas Period Start and Period End by selecting the Assist Edit button beside the Period End fields. 
+
+- AppSource App - Additional Alert Exclusions were added to the Setup Card - Ignore Blocked Items, Ignore Purchasing Blocked Items and Ignore Sales Blocked Items.
+
+- AppSource App - If Alerts are excluded in the Setup then on Refresh or Rebuild of Alerts previously calcd Alerts and Alert Qtys are now cleared.
+
+- AppSource App - The Links in the About Page were updated.
+
 ### 3.2.2
 
 #### Enhancements
