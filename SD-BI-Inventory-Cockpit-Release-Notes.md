@@ -128,7 +128,29 @@
 
 - BCv20 App - In the Item Cliff Alerts Page when exporting the Item Cliff Alerts to excel the percentage column was missing. 
 
-- BCv20 App - The Product Activation page was reworked to disable the Activate button unless the Product Key is filled in.  
+- BCv20 App - The Product Activation page was reworked to disable the Activate button unless the Product Key is filled in.
+
+### 3.1.2
+
+#### Enhancements
+
+- BCv14 App - Functionality was added to the SD BI Inventory Cockpit to flag items as new or established determined by a Sales Period and Dimension Codes and Values on the Item Templates.
+
+- BCv14 App - The Item Templates were extended to create new Dimension Codes and Values and a Sales Period field. These fields are stamped on an extension of the Item Card when an Item is created using the Template. 
+
+- BCv14 App - A new table Item Lifecycle Log was created to store the Item code by Status, Created Date, First Sale Date, and Established Date.
+
+- BCv14 App - The first sales date and item status is stamped on the Item Lifecycle Log when the Refresh action on the Inventory Cockpit Role Centre is chosen or when a Job Queue running the SDY UTPBI Item Lifecycle Mgt. Codeunit is run. For pre existing items the Item Lifecycle Upgrade report from the Inventory Cockpit Setup Card can be run to create entries in the Item Lifecycle Log.
+
+- BCv14 App - When the Refresh action on the Inventory Cockpit Role Centre is chosen or when a Job Queue running the SDY UTPBI Item Lifecycle Mgt. Codeunit is run, SD BI Inventory Cockpit checks for first sales date versus the Sales Period and updates the item to established in the Item Lifecycle Log.
+
+- BCv14 App - An action was surfaced in the Inventory Cockpit Setup Card to run a report for initial analysis and stamp Dimension Code and Values, and Sales Period on legacy data.
+
+- BCv14 App - Two new KPI cues were surfaced on the Inventory Cockpit Role Centre for New and Established Items.
+
+- BCv14 App - The new Item Lifecycle Log page was published as an OData page.
+
+- BCv14 App - The new functionality was added to the licence controller check.
 
 ### 3.1.1
 
