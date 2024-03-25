@@ -20,6 +20,12 @@
 
 - AppSource App - The Links in the About Page were updated.
 
+### 3.2.3
+
+#### Enhancements
+
+- AppSource App - The Power BI Report FactBox was removed from the Role Centre.
+
 ### 3.2.2
 
 #### Enhancements
