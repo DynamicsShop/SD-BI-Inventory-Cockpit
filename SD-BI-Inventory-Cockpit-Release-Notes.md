@@ -22,6 +22,8 @@
 
 - AppSource App - The logic behind the Refresh Alerts calculations was reworked.
 
+- AppSource App - The Requisition Worksheet was extended to flag those lines created by the Inventory Cockpit tables.
+
 - AppSource App - The Links in the About Page were updated.
 
 - AppSource App - The logo in App was updated to the new logo.
