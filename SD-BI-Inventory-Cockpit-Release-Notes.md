@@ -6,8 +6,6 @@
 
 - AppSource App - Functionality was added to SD BI Inventory Cockpit to alert by SKU or by Item.
 
-- AppSource App - The cues displayed in the SD BI Inventory Role Centre were added to the SD BI Inventory Cockpit Activity Panel.
-
 - AppSource App - New Sales Trend Functionality was added to the App. 8 KPI fields were added to a new Sales Trend FactBox.
 
 - AppSource App - A FastTab caption on the SD BI Inventory Cockpit Setup card was recaptioned.
@@ -16,9 +14,21 @@
 
 - AppSource App - Additional Alert Exclusions were added to the Setup Card - Ignore Blocked Items, Ignore Purchasing Blocked Items and Ignore Sales Blocked Items.
 
-- AppSource App - If Alerts are excluded in the Setup then on Refresh or Rebuild of Alerts previously calcd Alerts and Alert Qtys are now cleared.
+- AppSource App - If Alerts are excluded in the Setup then on Refresh or Rebuild of Alerts previously calculated Alerts and Alert Quantities are now cleared.
+
+- AppSource App - The cues displayed in the SD BI Inventory Role Centre were added to the SD BI Inventory Cockpit Activity Panel.
+
+- AppSource App - A Sales Trends cues FactBox was added to the Item Alert list and the SKU Alert list and placed in the first FactBox.
+
+- AppSource App - The logic behind the Refresh Alerts calculations was reworked.
 
 - AppSource App - The Links in the About Page were updated.
+
+- AppSource App - The logo in App was updated to the new logo.
+
+#### Bug Fixes
+
+- AppSource App - An error was raised on renumbering an Item No. when the item was an Inventory Cockpit Managed Item.
 
 ### 3.2.3
 
