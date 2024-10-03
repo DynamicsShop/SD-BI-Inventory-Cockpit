@@ -1,5 +1,27 @@
 ## SD BI Inventory Cockpit Releases
 
+### 5.0.0
+
+#### Enhancements
+
+- AppSource App - Functionality was added to the SD BI Inventory Cockpit to flag items as new or established determined by a Sales Period length and Dimension Codes and Values on the Item Templates.
+
+- AppSource App - The Item Templates were extended to create new Dimension Codes and Values and a Sales Period field. These fields are stamped on an extension of the Item Card when an Item is created using the Template.
+
+- AppSource App - A new table Item Lifecycle Log was created to store the Item code by Status, Created Date, First Sale Date, and Established Date.
+
+- AppSource App - The first sales date and item status is stamped on the Item Lifecycle Log when the Refresh action on the Inventory Cockpit Role Centre is chosen or when a Job Queue running the SDY UTPBI Item Lifecycle Mgt. Codeunit is run. For pre existing items the Item Lifecycle Upgrade report from the Inventory Cockpit Setup Card can be run to create entries in the Item Lifecycle Log.
+
+- AppSource App - When the Refresh action on the Inventory Cockpit Role Centre is chosen or when a Job Queue running the SDY UTPBI Item Lifecycle Mgt. Codeunit is run, SD BI Inventory Cockpit checks for first sales date versus the Sales Period and updates the item to established in the Item Lifecycle Log.
+
+- AppSource App - An action was surfaced in the Inventory Cockpit Setup Card to run a report for initial analysis and stamp Dimension Code and Values, and Sales Period on legacy data.
+
+- AppSource App - Two new KPI cues were surfaced on the Inventory Cockpit Role Centre for New and Established Items.
+
+- AppSource App - The new Item Lifecycle Log page was published as an OData page.
+
+- AppSource App - The new functionality was added to the licence controller check.
+
 ### 4.0.0
 
 #### Enhancements
