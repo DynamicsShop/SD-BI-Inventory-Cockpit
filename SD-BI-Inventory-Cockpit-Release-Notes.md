@@ -1,5 +1,37 @@
 ## SD BI Inventory Cockpit Releases
 
+### 5.1.0
+
+#### Enhancements
+
+- AppSource App - Changes were made to the Item Alert List for the Item Inventory Implementation Setup. Multiple line selection is now allowed and a new flowfield Qty. On Requisition was surfaced on the page.
+
+- AppSource App - Changes were made to the SKU Alert List for the SKU Inventory Implementation Setup. Multiple line selection is now allowed and a new flowfield Qty. On Requisition was surfaced on the page.
+
+- AppSource App - A change was made to the logic to recalculate the Sales Period Daily Average in the Refresh Alerts action on the Item Alert List for the Item Inventory Implementation. 
+
+- AppSource App - A change was made to the logic to recalculate the Sales Period Daily Average in the Refresh Alerts action on the Item Alert List for the SKU Inventory Implementation. 
+
+- AppSource App - The SKU implementation now takes variants into account in the calculations.
+
+- AppSource App - An Assisted Setup action and functionality was added to the Setup Card.
+
+- AppSource App - A Budget Name was added to the Setup Card to allow users to choose a Budget to use in the Forecast KPIs on the Sales Trends FactBoxes.
+
+- AppSource App - The Item Forecast Page, ID 1851, was surfaced as a FactBox in the Managed Items and Managed SKUs Lists.
+
+- AppSource App - UI changes were made to the Inventory Cockpit Activity Panel.
+
+- AppSource App - A new Activate Licence and Setup Wizard was created.
+
+- AppSource App - A new action was added to the Setup Card called View Our Apps. This action opens a page on AppSource pointing to all our Simply Dynamics Ltd apps.
+
+- AppSource App - The Lead Subscription Link from the Request Subscription action in the Product Activation page was updated.
+
+- AppSource App - Changes were made to the Manage Subscriptions page.
+
+- AppSource App - The notification to activate the app, displayed on fresh install of SD Inventory Cockpit, was added to the standard Business Central role centres.
+
 ### 5.0.0
 
 #### Enhancements
