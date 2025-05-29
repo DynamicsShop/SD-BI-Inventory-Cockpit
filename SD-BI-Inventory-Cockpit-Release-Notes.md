@@ -8,9 +8,9 @@
 
 - AppSource App - Changes were made to the SKU Alert List for the SKU Inventory Implementation Setup. Multiple line selection is now allowed and a new flowfield Qty. On Requisition was surfaced on the page.
 
-- AppSource App - A change was made to the logic to recalculate the Sales Period Daily Average in the Refresh Alerts action on the Item Alert List for the Item Inventory Implementation. 
+- AppSource App - A change was made to the recalculate Overstock logic in the Refresh Alerts action on the Item Alert List for the Item Inventory Implementation. Rebuild and Refresh tooltips were updated to reflect the differences in the Refresh and Rebuild actions.
 
-- AppSource App - A change was made to the logic to recalculate the Sales Period Daily Average in the Refresh Alerts action on the Item Alert List for the SKU Inventory Implementation. 
+- AppSource App - A change was made to the recalculate Overstock logic in the Refresh Alerts action on the SKU Alert List for the SKU Inventory Implementation. Rebuild and Refresh tooltips were updated to reflect the differences in the Refresh and Rebuild actions. 
 
 - AppSource App - The SKU implementation now takes variants into account in the calculations.
 
