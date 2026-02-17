@@ -1,5 +1,11 @@
 ## SD BI Inventory Cockpit Releases
 
+### 5.1.2
+
+#### Enhancements
+
+- AppSource App - The Send Selected to Requisition Worksheet action was enhanced to include Location and Bin Code. This action is available on both the Item Alert List and the SKU Alert List.
+
 ### 5.1.1
 
 #### Enhancements
@@ -588,5 +594,6 @@ Profiler: 
 - Profiler - Renumbered and reordered the Tables and Pages. 
 - Cleaned up the objects. 
 - Code upgraded to 2016.
+
 
 
