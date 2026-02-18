@@ -6,6 +6,8 @@
 
 - AppSource App - The Send Selected to Requisition Worksheet action was enhanced to include Location and Bin Code. This action is available on both the Item Alert List and the SKU Alert List.
 
+- AppSource App - An new event, OnBeforeRequisitionLineInsert, was created in Codeunit 43006351 "SDY BICI Inventory Impl." to allow for custom calculations to be made before a line is inserted into the Requisition Worksheet.
+
 ### 5.1.1
 
 #### Enhancements
@@ -594,6 +596,7 @@ Profiler: 
 - Profiler - Renumbered and reordered the Tables and Pages. 
 - Cleaned up the objects. 
 - Code upgraded to 2016.
+
 
 
 
