@@ -1,5 +1,11 @@
 ## SD BI Inventory Cockpit Releases
 
+### 5.1.3
+
+#### Enhancements
+
+- AppSource App - A minor mod was made to the Free Stock Calculation.
+
 ### 5.1.2
 
 #### Enhancements
@@ -596,6 +602,7 @@ Profiler: 
 - Profiler - Renumbered and reordered the Tables and Pages. 
 - Cleaned up the objects. 
 - Code upgraded to 2016.
+
 
 
 
