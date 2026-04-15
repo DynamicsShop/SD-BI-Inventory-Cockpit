@@ -1,5 +1,11 @@
 ## SD BI Inventory Cockpit Releases
 
+### 5.1.4
+
+#### Enhancements
+
+- AppSource App - The logic used to populate Location and Bin Code when alerts are transferred to the Requisition Journal Worksheet was reworked.
+
 ### 5.1.3
 
 #### Enhancements
